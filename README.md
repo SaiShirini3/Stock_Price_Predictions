@@ -17,13 +17,12 @@ This repository hosts a Python project for predicting the next day's stock price
 To set up a local development environment, follow these steps:
 1. Clone the repository:
 git clone https://github.com/yourusername/Stock_Price_Predictions.git
-2. Install the required dependencies:
-pip install -r requirements.txt
+
 
 
 ## Usage
 To run the stock price prediction model, navigate to the project directory and execute:
-python run_model.py
+run Stock_Price_Prediction.ipynb
 
 This will start the data preprocessing, model training, and evaluation sequence.
 
